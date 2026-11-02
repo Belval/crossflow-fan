@@ -14,4 +14,10 @@ Earlier casing iteration, with donor rotor and motor reference envelopes shown i
 
 ![Earlier prototype exploded view](renders/earlier-prototype-exploded.png)
 
+## Electronics enclosure study — October 17, 2026
+
+Exploded view of the electronics enclosure, circuit boards and mounting brackets.
+
+![Electronics enclosure exploded view](renders/electronics-exploded.png)
+
 These images depict development prototypes. This repository contains renders only.
